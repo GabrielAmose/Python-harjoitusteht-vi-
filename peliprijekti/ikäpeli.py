@@ -1,1 +1,5 @@
-
+print("Kirjoita teidän nimi:")
+name = input()
+print("kirjoita teidän ikä:")
+age = input()
+print("Hei, " + name + "! Olet " + age + " vuotta vanha.")
