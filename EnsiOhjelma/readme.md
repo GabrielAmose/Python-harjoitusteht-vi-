@@ -1,2 +1,0 @@
-Ikä peli
-Gabriel Amose
