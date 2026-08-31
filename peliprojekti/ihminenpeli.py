@@ -6,7 +6,7 @@ lista = ["Metropolia on paras koulu.", "Karhu on minun lempi eläin.", "Onneksi 
 name = input("Kirjoita teidän nimi: ")
 ika = int(input("Kirjoita teidän ikä: "))
 
-#Jos ikä on alle 12v. ohjelma ilmoitta alaikäsyydestä ja lopettaa ohjelman  
+#Jos ikä on alle 12v. ohjelma ilmoitta alaikäsyydestä ja sammuttaa ohjelman  
 if ika < 12:
         print("Valitettavasti olet liian nuori, kokeile uudestaan kun olet vanhempi")
         
