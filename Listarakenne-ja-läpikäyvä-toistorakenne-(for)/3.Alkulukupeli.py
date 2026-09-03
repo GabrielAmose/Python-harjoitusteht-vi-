@@ -18,6 +18,6 @@ else:
 if cap == True:
     print(f"{luku} ei ole alkuluku")
 
-#Jos luku on alkuluku
+#Jos luku on alkuluku 
 else:
     print(f"{luku} on alkuluku")

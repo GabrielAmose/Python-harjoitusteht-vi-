@@ -9,7 +9,7 @@ for x in range(5):
     #Lisää kaupungit listaan
     lista.append(city)
 
-#Tulostaa kaupungit yksi kerrallaan
+#Tulostaa kaupungit yksi kerrallaan 
 for y in range(5):
 
     print(lista[y])

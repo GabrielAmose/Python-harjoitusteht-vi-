@@ -9,10 +9,10 @@ while True:
         lista.sort(reverse=True, key=int)
         break
 
-    #lisää luku listaan
+    #Lisää luku listaan
     lista.append(luku)
 
-#tulostaa 5 isoimista luvuista
+#Tulostaa 5 isoimista luvuista
 for x in range(5):
    
    print(lista[x])
