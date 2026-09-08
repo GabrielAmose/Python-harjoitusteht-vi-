@@ -141,12 +141,15 @@ else:
         elif pyynto == "feeling lucky":
             print(random.choice(lista))
 
+        #Kruuna ja klaava peli
         elif pyynto == "peli":
            rahaa += kruunavaiklaava()
 
+        #Kauppa, missä voit ostaa tavaraa rahalla
         elif pyynto == "kauppa":
             rahaa, reppu = kauppa(rahaa, reppu)
 
+        #Varasto, missä voit katsoo tavaroanne mitä ostit kaupasta
         elif pyynto == "reppu":
             varasto(rahaa, reppu)
              
