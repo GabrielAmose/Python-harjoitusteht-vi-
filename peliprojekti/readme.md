@@ -1,5 +1,5 @@
 ## Peliprojekti
 
-#ihminen peli
+# ihminen peli
 
 Gabriel Amose
