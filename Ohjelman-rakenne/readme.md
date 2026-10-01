@@ -10,3 +10,5 @@ Ohjelman-rakenne/
     ├── huone.py
     ├── esineetjahuoneet.py
     └── tilanne.py
+
+    asddasodj
