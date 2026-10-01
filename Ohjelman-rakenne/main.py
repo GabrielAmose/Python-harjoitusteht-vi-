@@ -1,4 +1,4 @@
-from classes import Pelaaja, huoneet, tyhja, nykyinen_tilanne
+from luokat import Pelaaja, huoneet, tyhja, nykyinen_tilanne
 
 name = input("Mikä on teidän nimi: ")
 hahmo = Pelaaja(name, huoneet[0])
