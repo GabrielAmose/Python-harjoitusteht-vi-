@@ -30,3 +30,23 @@ Tein tehtävät: 1, 2, 3 ja 4
 # Moduuli 7
 
 Tein tehtävät: 1, 2, 3, 4, 5, 6 ja Projekti 3
+
+# Moduuli 8
+
+Tein tehtävät: 1, 2 ja 3
+
+# Moduuli 9
+
+Tein tehtävät: 1, 2, 3 ja 4
+
+# Moduuli 10
+
+Tein tehtävät: 1, 2, 3 ja 4
+
+# Moduuli 11
+
+Tein tehtävät: 1 ja 2
+
+# Moduuli 12
+
+Tein tehtävät: Projekti 4
