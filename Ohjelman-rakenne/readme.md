@@ -1,5 +1,5 @@
 # Projekti 4
-´´´text
+```text
 Ohjelman-rakenne/
 |
 ├──main.py
@@ -10,4 +10,4 @@ Ohjelman-rakenne/
     ├──huone.py
     ├──esineetjahuoneet.py
     └──tilanne.py
-´´´
+```
