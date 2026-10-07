@@ -1,0 +1,58 @@
+{
+    "story" : {
+
+    "bottle" : {
+        "text" : "You got bored stuck at home doing nothing,so you planned to go camping at a camping site.\nYour objective is to have funand well... survive.\nBefore you leave the house, you almost forgot to bring a water bottle.\nYou have 2 options, which one will you pick?",
+        "choice" : {
+            "1" : "You grabbed the Metal bottle.\nYou grab your car, and leave the house.",
+            "2" : "You grabbed the Glass bottle.\nYou grab your car, and leave the house."
+        }
+    },
+
+    "raccoon" : {
+        "text" : "You arrive at the camping site and start building your tent.\nWhile you're building the tent, you see a raccoon wandering trying to find food.\nIt looks hungry, what do you want to do?",
+        "choice" : {
+        "1" : "You fed the raccoon a slice of bread. After eating, the raccoon leaves the camp site.\n*The Raccoon will remember this*",
+        "2" : "You continue building the tent, the raccoon searches the area food.\nRight before you finish building, the raccoon wanders off"
+        }
+    },
+
+    "bird" :{
+        "text" : "You finishing building the tent.\nYou take a break by eating an avoccado before you start making the campfire.\nWhile your eating, you see a small bird looking at you curiously.\nwhat do you want to do?",
+        "choice" : {
+        "1" : "You slice up some of your avoccado and put it on a paper plate, placing it on the ground.\nThe bird flies towards the avocado, looks at it, and eats it.\nThe bird is enjoying the avoccado, but after a while, the bird 'faints' from avocado poisoning.\nYou feel guilty for giving the avocado.",
+        "2" : "You ignore the bird, the bird leaves"
+        }
+    },
+
+    "deer" :{
+        "textglass" : "While you are starting the campfire, you accidentaly bump your glass bottle and it breaks.\nYou feel very sad.",
+        "text" : "You just made your campfire.\nWhile you're by the fire cooking, you hear a rattle from a far.\nYou look at that direction and you see a baby deer wodering around\nIt looks scared, do you want to approach it?",
+        "choice" : {
+            "1" : "You don't want to leave the campfire alone, so you just stay put.\nThe deer leaves the other direction",
+            "2" : "You approach the deer to see if its ok, the baby deer shouts and runs away from you.\nRight after that you hear loud roar from afar. You run back to the campsite, to get to safety.\nYou see a mama deer run past the campsite looking for the baby.\nYou feel scared."
+        }
+    },
+
+    "bear" :{
+        "text" : "After you finish cooking and eating, you go head to sleep.\nFrom afar you see a baby cub and a mama bear walking by the campsite.\nWhat are you gonna do?",
+        "choice" : {
+            "1" : "You try to scare the bares away from the camp site.\nThe mama bear feels treatened and runs at you.\nYou try to run away, but you were too slow for the bear.\nYou're fading black",
+            "2" : "You feel too tired to do anything.\nSo you head to sleep hoping that the bears dont eat you",
+            "3" : "You understand that its way too risky to stay here with the bears around.\nYou leave you belongings, including your tent, take your car, and drive away from the campsite.\nYou parked in a parking lot and sleep in the car"
+        }
+    },
+
+    "clean" :{
+        "textno" : "You wake up the next day.\nGetting out of the tent and see that the camsite is full of trash that you left.\nBefore you leave the camsite, do you want to clean the place?",
+        "textrac" : "You wake up the next day.\nGetting out of the tent you see a gaze of raccoons rummiging your stuff.\nYou scare them off and they run away. You see the campsite full of trash and you stuff scattered around.\nBefore you leavethe campsite, do you want to clean the place?",
+        "textcar" : "You wake up the next day and drive back to the campsite.\nOnce you arrive there, you see the campsite and your stuff mostly intact, but there is quite a bit of trash around the campsite.\nBefore you leave the camsite, do you want to clean the place?",
+        "textraccar" : "You wake up the next day and drive back to the campsite.\nOnce you arrive there, you see a gaze of raccoons rummiging your stuff.\nYou honk the horn and the racoons run away. You see the campsite full of trash and you stuff scattered around.\nBefore you leavethe campsite, do you want to clean the place?",
+        "choice" : {
+            "1" : "After what has happend, you dont wanna stay here any longer.\nSo you pack your stuff, and drive off.",
+            "2" : "You dont want to be a rude person, so start cleaning the area.\nAfter that you pack your stuff, and drive off."
+        }
+    }
+
+    }
+}
