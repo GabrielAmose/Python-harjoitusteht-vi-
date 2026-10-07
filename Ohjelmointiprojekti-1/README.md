@@ -1,4 +1,4 @@
-# SURVUVING CAMP
+# SURVIVING CAMP
 
 ## Gabriel Amose
 
