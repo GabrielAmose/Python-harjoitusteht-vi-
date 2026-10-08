@@ -2,7 +2,7 @@
     "story" : {
 
     "bottle" : {
-        "text" : "You got bored stuck at home doing nothing,so you planned to go camping at a camping site.\nYour objective is to have funand well... survive.\nBefore you leave the house, you almost forgot to bring a water bottle.\nYou have 2 options, which one will you pick?",
+        "text" : "You got bored stuck at home doing nothing, so you planned to go camping at a camp site.\nYour objective is to have fun and well... survive.\nBefore you leave the house, you almost forgot to bring a water bottle.\nYou have 2 options, which one will you pick?",
         "choice" : {
             "1" : "You grabbed the Metal bottle.\nYou grab your car, and leave the house.",
             "2" : "You grabbed the Glass bottle.\nYou grab your car, and leave the house."
